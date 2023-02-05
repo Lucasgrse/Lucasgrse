@@ -1,13 +1,13 @@
 ### Olá! Eu sou o Lucas!!! :D
 
 
-- 🔭 Atualmente não estou trabalhando, mas procurando um estágio 😆
-- 🌱 Estudando Java, Redes, aprendendo sobre framework Node.js
-- 👯 Posso colaborar com Java!!!
-- 🤔 Gostaria muito de aprender mais a fundo sobre DeepLearning!
+- 🔭 Estágiario na Kune :D
+- 🌱 Trabalhando com API REST, Spring Boot
+- 👯 Java, Kotlin, Python, adoro
+- 🤔 DeepLearning, IA
 - 💬 Fique a vontade para perguntar sobre como por exemplo, ingressei na área de TI, meus hobbies, a pessoa que sou, o que eu vejo que é um diferencial
 - 😄 Pronome: ele/dele
-- ⚡ Curiosidades: Amo pescar, viajar de moto, conversar, gosto de rir, ajudar!
+- ⚡ Curiosidades: Amo pescar, viajar de moto, conversar, inovar!
 -->
 
  <a href="https://discord.gg/AXcg5WMU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
