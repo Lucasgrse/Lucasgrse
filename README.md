@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Lucas!!! :D
 
 
-- 🔭 Estágiario na Kune :D
-- 🌱 Trabalhando com API REST, Spring Boot
-- 👯 Java, Kotlin, Python, adoro
+- 🌱 API REST, Spring Boot
+- 👯 Java, Kotlin, Python
 - 🤔 DeepLearning, IA
 - 💬 Fique a vontade para perguntar sobre como por exemplo, ingressei na área de TI, meus hobbies, a pessoa que sou, o que eu vejo que é um diferencial
 - 😄 Pronome: ele/dele
